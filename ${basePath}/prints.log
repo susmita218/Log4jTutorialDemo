@@ -1,0 +1,4 @@
+2021-09-20 22:21:09,181 DEBUG b.Demo1 [main] I am debugging
+2021-09-20 22:21:09,235 INFO b.Demo1 [main] object is present
+2021-09-20 22:21:09,235 ERROR b.Demo1 [main] object is not present
+2021-09-20 22:21:09,236 FATAL b.Demo1 [main] This is fatal
